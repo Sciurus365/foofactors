@@ -21,3 +21,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/Sciurus365/foofactors
+BugReports: https://github.com/Sciurus365/foofactors/issues
